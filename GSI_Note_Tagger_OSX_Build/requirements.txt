@@ -6,7 +6,7 @@ Keras==2.2.4
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 nltk==3.4.1
-numpy==1.16.3
+numpy==1.22.0
 pathos==0.2.3
 pickleshare==0.7.5
 pika==0.12.0
